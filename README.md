@@ -10,7 +10,7 @@ In our dataset, we have three files that were taken from several book-selling we
 
 Books – the first section is about books, and it contains all of the information on books, such as an author, title, release year, and so on.
 
-Guests – The second file contains information on registered users, such as their user id and location.
+Users – The second file contains information on registered users, such as their user id and location.
 
 ratings – Ratings provide information such as which user gave which book what rating.
 
